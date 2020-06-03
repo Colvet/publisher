@@ -3,4 +3,4 @@ spring:
     stream:
       bindings:
         output:
-          destination: javatechie-stream
+          destination: file
